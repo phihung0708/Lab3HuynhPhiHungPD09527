@@ -1,10 +1,10 @@
 // import { StatusBar } from 'expo-status-bar';
 // import { StyleSheet, Text, View } from 'react-native';
 import React from 'react';
-import Lab3 from './src/screens/lab3';
+import Lab6 from './src/screens/lab6';
 const App=() => {
 // export default function = App()  {
-  return <Lab3> </Lab3>;
+  return <Lab6> </Lab6>;
     // <View style={styles.container}>
     //   <Text> HuynhPhi Hung PD095 </Text>
     //   <StatusBar style="auto" />
